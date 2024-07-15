@@ -22,6 +22,6 @@ www.cypheryard.com
   
   <li>Ex-SDE @ JP Morgan Chase </li>
   <li>Data Science Analyst @ Samsung R&D</li>
-  <li>Web Dev @ Paradowski Creative </li>
+  <li>Web Dev Intern@ Paradowski Creative </li>
 </ul>
 </p>
