@@ -3,9 +3,7 @@
   <h1>Heyaa👋 !! I am Pollam, Gowtham Pollam</h1>
 
 <h3>They say I have a way with code and puns –bugs fear me, developers cheer me!🐞👨‍💻</h3>
-<br>
 <h3>Previous Projects</h3>
-<br>
 www.boltabacus.com 
 <br>
 www.cypheryard.com
