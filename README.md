@@ -1,4 +1,4 @@
-![Gowtham Pollam](https://github.com/Murgowt/Murgowt/blob/e470609930a82dde97ecfacf9d676a76e2a9980e/Gowtham.svg)
+![Gowtham Pollam](https://github.com/Murgowt/Murgowt/blob/387409fb4ff29ec534f8d60f4aacaee9d7cdb125/Gowtham.jpeg)
 
 <p align="center">
 They say I have a way with code and puns – bugs fear me, developers cheer me!
