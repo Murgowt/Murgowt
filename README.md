@@ -4,8 +4,8 @@
 <br><br>
 Previous Works
 <br>
-www.boltabacus.com ![Bolt Abacus](https://github.com/Murgowt/Murgowt/blob/a7a0b9175290d1b59a79e6462d31fb14bba93217/bolt%20logo.png)
-)
+www.boltabacus.com ![Bolt Abacus](https://github.com/Murgowt/Murgowt/blob/a7a0b9175290d1b59a79e6462d31fb14bba93217/bolt%20logo.png )
+
 <br>
 www.cypheryard.com
 <br>
