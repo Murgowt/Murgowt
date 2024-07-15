@@ -16,4 +16,11 @@ www.cypheryard.com
   <li>I believe in being a Jack of All trades, King of One 👑. I learn every technology💻, while exceling in my field.💻</li>
    <li>Hit me up on <u><b>gowthampollam@gmail.com</b></u> ✉️</li>
 </ul>
+<h3>Previous Experience</h3>
+<ul>
+  
+  <li>Ex-SDE @ JP Morgan Chase </li>
+  <li>Data Science Analyst @ Samsung R&D</li>
+  <li>Web Dev @ Paradowski Creative </li>
+</ul>
 </p>
