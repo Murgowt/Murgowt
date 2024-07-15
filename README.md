@@ -13,7 +13,8 @@ www.cypheryard.com
 <br>
 <h3>What's my poison</h3>
 <ul>
-  <li><b>Generative AI</b> gets me all riled up and stary eyed.</li>
-  <li>I live, breathe, eat<b>ReactJS</b>, my above projects are my medals of honour.😛</li>
+  <li><b>Generative AI</b> gets me all riled up and stary eyed.🤩🤩</li>
+  <li>I live, breathe, eat <b>ReactJS</b>, my above projects are my medals of honour.😛</li>
+  <li>I believe in being a Jack of All trades, King of One 👑. I learn every technology💻, while exceling in my field.💻</li>
 </ul>
 </p>
