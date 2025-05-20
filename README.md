@@ -14,12 +14,12 @@ www.cypheryard.com
   <li><b>Generative AI</b> gets me all riled up and stary eyed. 🤩🤩</li>
   <li>I live, breathe, eat <b>ReactJS</b>; my above projects are my medals of honour.😛</li>
   <li>I believe in being a Jack of All trades, King of One 👑. I learn every technology💻, while exceling in my field.💻</li>
-  <li>Hit me up on <u><b>gowthampollam@gmail.com</b></u> ✉️</li>
+  <li>Hit me up on <u><b>gowthampollam2000@gmail.com</b></u> ✉️</li>
   <li>96.3% in High Scool📚, 3.8/4.0 CGPA in Bachelors📚, 4/4 CGPA in Masters 📚 </li>
 </ul>
 <h3>Previous Experience</h3>
 <ul>
-  
+  <li>SDE 2 @ CofactorAI</li>
   <li>Ex-SDE @ JP Morgan Chase </li>
   <li>Data Science Analyst @ Samsung R&D</li>
   <li>Web Dev Intern@ Paradowski Creative </li>
