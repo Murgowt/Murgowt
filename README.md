@@ -19,7 +19,7 @@ www.cypheryard.com
 </ul>
 <h3>Previous Experience</h3>
 <ul>
-  <li>SDE 2 @ CofactorAI</li>
+  <li>Founding Engineer @ CofactorAI</li>
   <li>Ex-SDE @ JP Morgan Chase </li>
   <li>Data Science Analyst @ Samsung R&D</li>
   <li>Web Dev Intern@ Paradowski Creative </li>
